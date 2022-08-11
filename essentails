@@ -1,0 +1,3 @@
+Using $(( ... )) you can evaluate arithmetic expressions.
+Within $((...)) integers are integers,# and outside of it, they are strings.
+You can also evaluate the result of a function with $( ... ) or `...`.
